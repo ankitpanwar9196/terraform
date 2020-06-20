@@ -16,3 +16,4 @@ create NAT
 2 ALB
 1 LC
 2 Target Group
+SG 
