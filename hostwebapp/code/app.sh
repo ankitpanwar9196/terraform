@@ -1,2 +1,2 @@
 apt get update -y
-apt get install -y apace2
+apt get install -y apache2
