@@ -17,3 +17,4 @@ create NAT
 2 Target Group
 SG 
 Happy LEARNING
+Take a clone of it For better simplification & visualization ,install graphviz ,run command terraform graph | dot -Tpng > graph .png , open these graph.png ,it visualise all dependencies to you
